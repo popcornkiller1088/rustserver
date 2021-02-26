@@ -1,0 +1,6 @@
+{
+  "Clear chat on connect": true,
+  "Exclude admin from clearing": false,
+  "Number of lines to clear (ex. 300)": 300,
+  "Show chat cleared message": false
+}
