@@ -9,6 +9,5 @@ craftrate 20
 cronjobs
 */5 * * * *  /home/rustserver/autorestart.sh >> /home/rustserver/autorestart.log 2>&1
 
-
 destroy all heli
 heli.lifetimeMinutes 0
