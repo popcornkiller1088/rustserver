@@ -1,0 +1,14 @@
+startup
+
+oxide.grant group default quicksmelt.use
+oxide.grant group default removertool.normal
+oxide.grant group default nteleportation.home
+oxide.grant group default nteleportation.tpr
+craftrate 20 
+
+cronjobs
+*/5 * * * *  /home/rustserver/autorestart.sh >> /home/rustserver/autorestart.log 2>&1
+
+
+destroy all heli
+heli.lifetimeMinutes 0
