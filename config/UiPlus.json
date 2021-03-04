@@ -1,0 +1,96 @@
+{
+  "__Create Active panel": true,
+  "__Create Clock panel": true,
+  "__Create Sleeping panel": true,
+  "_Active player counter fill": true,
+  "_Clock 24 hour format": true,
+  "_Clock show seconds": false,
+  "_Clock update frequency in milliseconds": 2000,
+  "Active backgroundImage": {
+    "Color": "1 0.95 0.875 0.025"
+  },
+  "Active backgroundRect": {
+    "Anchor Max": "0.048 0.036",
+    "Anchor Min": "0 0",
+    "Offset": "81 72"
+  },
+  "Active iconImage": {
+    "Color": "0.7 0.7 0.7 1",
+    "Uri": "http://i.imgur.com/UY0y5ZI.png"
+  },
+  "Active iconRect": {
+    "Anchor Max": "0.325 0.75",
+    "Anchor Min": "0 0",
+    "Offset": "2 3"
+  },
+  "Active textRect": {
+    "Anchor Max": "1 1",
+    "Anchor Min": "0 0",
+    "Offset": "24 0"
+  },
+  "Active textText": {
+    "Alignment": "MiddleLeft",
+    "Color": "0.85 0.85 0.85 0.5",
+    "Font": "RobotoCondensed-Bold.ttf",
+    "Font size": "14",
+    "Format": "{PLAYERSACTIVE}/{PLAYERMAX}"
+  },
+  "Clock backgroundImage": {
+    "Color": "1 0.95 0.875 0.025"
+  },
+  "Clock backgroundRect": {
+    "Anchor Max": "0.049 0.036",
+    "Anchor Min": "0 0",
+    "Offset": "16 72"
+  },
+  "Clock iconImage": {
+    "Color": "0.7 0.7 0.7 1",
+    "Uri": "http://i.imgur.com/CycsoyW.png"
+  },
+  "Clock iconRect": {
+    "Anchor Max": "0.325 0.75",
+    "Anchor Min": "0 0",
+    "Offset": "2 3"
+  },
+  "Clock textRect": {
+    "Anchor Max": "1 1",
+    "Anchor Min": "0 0",
+    "Offset": "24 0"
+  },
+  "Clock textText": {
+    "Alignment": "MiddleLeft",
+    "Color": "0.85 0.85 0.85 0.5",
+    "Font": "RobotoCondensed-Bold.ttf",
+    "Font size": "14",
+    "Format": "{TIME}"
+  },
+  "Sleeping backgroundImage": {
+    "Color": "1 0.95 0.875 0.025"
+  },
+  "Sleeping backgroundRect": {
+    "Anchor Max": "0.049 0.036",
+    "Anchor Min": "0 0",
+    "Offset": "145 72"
+  },
+  "Sleeping iconImage": {
+    "Color": "0.7 0.7 0.7 1",
+    "Uri": "http://i.imgur.com/mvUBBOB.png"
+  },
+  "Sleeping iconRect": {
+    "Anchor Max": "0.325 0.75",
+    "Anchor Min": "0 0",
+    "Offset": "2 3"
+  },
+  "Sleeping textRect": {
+    "Anchor Max": "1 1",
+    "Anchor Min": "0 0",
+    "Offset": "24 0"
+  },
+  "Sleeping textText": {
+    "Alignment": "MiddleLeft",
+    "Color": "0.85 0.85 0.85 0.5",
+    "Font": "RobotoCondensed-Bold.ttf",
+    "Font size": "14",
+    "Format": "{PLAYERSSLEEPING}"
+  }
+}

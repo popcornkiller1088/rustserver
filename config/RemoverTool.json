@@ -124,7 +124,8 @@
     "wood": "Wood",
     "metal.fragments": "Metal Fragments",
     "metal.refined": "High Quality Metal",
-    "player": "player"
+    "player": "player",
+    "stones": "Stones"
   },
   "GUI": {
     "Enabled": true,

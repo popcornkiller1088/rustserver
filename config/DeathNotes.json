@@ -150,7 +150,7 @@
         "VictimType": "Player",
         "DamageType": "*",
         "Messages": [
-          "{owner}'s {killer} did its job, killing {victim}."
+          "{killer} did its job, killing {victim}."
         ]
       },
       {
@@ -214,7 +214,7 @@
         "VictimType": "Player",
         "DamageType": "*",
         "Messages": [
-          "{victim} was electrecuted by {owner}'s {killer}."
+          "{victim} was electrecuted by {killer}."
         ]
       },
       {
@@ -268,7 +268,15 @@
       "Sam Site": "Sam Site",
       "Chicken": "Chicken",
       "Scientist Sentry": "Scientist Sentry",
-      "Boar": "Boar"
+      "Boar": "Boar",
+      "Stag": "Stag",
+      "Bear": "Bear",
+      "Helicopter": "Helicopter",
+      "Gun Trap": "Gun Trap",
+      "Fire": "Fire",
+      "benjamin": "benjamin",
+      "shara": "shara",
+      "arlyne": "arlyne"
     },
     "Bodyparts": {
       "Body": "Body",
@@ -277,7 +285,8 @@
       "Leg": "Leg",
       "Arm": "Arm",
       "Hand": "Hand",
-      "Stomach": "Stomach"
+      "Stomach": "Stomach",
+      "Foot": "Foot"
     },
     "Weapons": {
       "Pump Shotgun": "Pump Shotgun",
@@ -288,7 +297,28 @@
       "Rocket": "Rocket",
       "LR-300 Assault Rifle": "LR-300 Assault Rifle",
       "Salvaged Hammer": "Salvaged Hammer",
-      "Custom SMG": "Custom SMG"
+      "Custom SMG": "Custom SMG",
+      "Hunting Bow": "Hunting Bow",
+      "M92 Pistol": "M92 Pistol",
+      "Flame Thrower": "Flame Thrower",
+      "Timed Explosive Charge": "Timed Explosive Charge",
+      "Longsword": "Longsword",
+      "Semi-Automatic Rifle": "Semi-Automatic Rifle",
+      "Salvaged Sword": "Salvaged Sword",
+      "Hatchet": "Hatchet",
+      "Double Barrel Shotgun": "Double Barrel Shotgun",
+      "Pickaxe": "Pickaxe",
+      "MP5A4": "MP5A4",
+      "F1 Grenade": "F1 Grenade",
+      "Assault Rifle": "Assault Rifle",
+      "Stone Hatchet": "Stone Hatchet",
+      "Wooden Spear": "Wooden Spear",
+      "Beancan Grenade": "Beancan Grenade",
+      "Jackhammer": "Jackhammer",
+      "Thompson": "Thompson",
+      "Spas-12 Shotgun": "Spas-12 Shotgun",
+      "40mm_grenade_he": "40mm_grenade_he",
+      "Salvaged Icepick": "Salvaged Icepick"
     },
     "Attachments": {
       "Weapon flashlight": "Weapon flashlight",
